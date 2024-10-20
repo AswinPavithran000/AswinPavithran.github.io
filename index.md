@@ -1,5 +1,5 @@
 ---
-layout: home
+layout:(home)
 ---
 
 # Welcome to My Portfolio
@@ -8,13 +8,15 @@ layout: home
 Hello! I am Aswin Pavithran, a college student passionate about cybersecurity. I enjoy participating in Capture The Flag (CTF) challenges and exploring ethical hacking.
 
 ## Skills
-- linux
+- Tools(PyPhisher,nmap)
 - Programming (Python)
-- Tools (nmap)
+- kali
 
-## Certifications (if applicable)
-- Other
+## Certifications
+- AWS Security - Encryption Fundamentals
+- Cybersecurity and Ethical Hacking
+- AWS Security Fundamentals (second edition)
 
 ## Contact
 - Email: maswin715419@gmail.com
-- [GitHub Profile](https://github.com/AswinPavithran000)
+- Linkdin:[Linkdin](https://www.linkedin.com/in/aswin-pavithran-4811b9311/)
