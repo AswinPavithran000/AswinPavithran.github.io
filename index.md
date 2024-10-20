@@ -13,13 +13,11 @@ Hello! I am Aswin Pavithran, passionate about cybersecurity. I enjoy participati
 - Cybersecurity and Ethical Hacking
 - AWS Security Fundamentals (second edition)
 
-## Hack The Box Achievements
-- **[Intro to Academy](https://academy.hackthebox.com/module/details/15)**
-- **[Introduction to Networking](https://academy.hackthebox.com/module/details/34)**
+## Hack The Box
+- **[My Profile](HTB-88E02CB8AC)
 
-## TryHackMe Achievements
-- **[Offensive Security Intro](https://tryhackme.com/r/room/offensivesecurityintro)**
-- **[Web Application Security](https://tryhackme.com/r/room/introwebapplicationsecurity)**
+## TryHackMe
+- [My Profile](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3341214" style='border:none;'></iframe>)
 
 
 ## Contact
