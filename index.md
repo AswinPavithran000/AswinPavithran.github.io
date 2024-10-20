@@ -14,10 +14,10 @@ Hello! I am Aswin Pavithran, passionate about cybersecurity. I enjoy participati
 - AWS Security Fundamentals (second edition)
 
 ## Hack The Box
-- **[My Profile](HTB-88E02CB8AC)
+- [My Profile](HTB-88E02CB8AC)
 
 ## TryHackMe
-- [My Profile](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3341214" style='border:none;'></iframe>)
+- [My Profile](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3341214)
 
 
 ## Contact
