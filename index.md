@@ -17,7 +17,7 @@ Hello! I am Aswin Pavithran, passionate about cybersecurity. I enjoy participati
 - [My Profile](HTB-88E02CB8AC)
 
 ## TryHackMe
-- [My Profile](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3341214)
+- [My Profile](https://github.com/AswinPavithran000/AswinPavithran.github.io/blob/main/images/Screenshot%202024-10-20%20220018.png)
 
 
 ## Contact
