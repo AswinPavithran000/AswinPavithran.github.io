@@ -14,7 +14,7 @@ Hello! I am Aswin Pavithran, passionate about cybersecurity. I enjoy participati
 - AWS Security Fundamentals (second edition)
 
 ## Hack The Box
-- [My Profile](images/HTB Academy Student Transcript.pdf)
+- [My Profile](https://github.com/AswinPavithran000/AswinPavithran.github.io/blob/main/images/HTB%20Academy%20Student%20Transcript.pdf)
 
 ## TryHackMe
 - [My Profile](https://github.com/AswinPavithran000/AswinPavithran.github.io/blob/main/images/Screenshot%202024-10-20%20220018.png)
